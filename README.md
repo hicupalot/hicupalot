@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am hicupalot, I am currently learning Java and Typescript! I mostly work on Minecraft Plugins but I am hoping to expand to Discord Bots and other things like that.
 <!--
 **hicupalot/hicupalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
